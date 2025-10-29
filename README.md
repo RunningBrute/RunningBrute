@@ -1,5 +1,4 @@
 ![RunningBrute's Stats](https://github-readme-stats.vercel.app/api?username=RunningBrute&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![RunningBrute's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RunningBrute&theme=vue-dark&hide_border=true)
 ![RunningBrute's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RunningBrute&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 <!--
 **RunningBrute/RunningBrute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
