@@ -6,9 +6,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=RunningBrute&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=RunningBrute&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RunningBrute&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
----
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RunningBrute&theme=dark" height="180em" />
+--
 [![](https://visitcount.itsvg.in/api?id=RunningBrute&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
