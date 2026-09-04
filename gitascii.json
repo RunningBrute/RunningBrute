@@ -1,4 +1,5 @@
 {
+  "username": "RunningBrute",
   "widgets": [
     {
       "widgetId": "header",
@@ -11548,7 +11549,7 @@
       },
       "size": {
         "width": 536,
-        "height": 160
+        "height": 228
       },
       "config": {
         "hideLangsArr": [
@@ -11556,7 +11557,9 @@
           "Cmake"
         ],
         "hideLangs": "Shell,Cmake",
-        "langsCount": 6
+        "langsCount": 6,
+        "langsLayout": "list",
+        "showPercentage": true
       },
       "locked": false,
       "visible": true,
@@ -11618,5 +11621,6 @@
     "themeMode": "dark",
     "templateStyle": "native"
   },
-  "templateId": "terminal"
+  "templateId": "terminal",
+  "profileSlug": "default"
 }
