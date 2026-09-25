@@ -2,124 +2,109 @@
   "username": "RunningBrute",
   "widgets": [
     {
-      "widgetId": "header",
       "name": "Header Widget",
-      "position": {
-        "x": 0,
-        "y": 0
-      },
       "size": {
         "width": 800,
         "height": 90
       },
       "config": {},
       "locked": false,
-      "visible": true,
       "zIndex": 1,
+      "visible": true,
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "widgetId": "header",
       "instanceId": "widget_1788175779829_0"
     },
     {
-      "widgetId": "terminal-info",
       "name": "Terminal-info Widget",
-      "position": {
-        "x": 40,
-        "y": 106
-      },
       "size": {
         "width": 672,
         "height": 280
       },
-      "config": {},
+      "config": {
+        "customWebsite": "https://runningbrute.github.io/",
+        "customLanguages": "",
+        "showCompany": false,
+        "showHighlights": false,
+        "showFollowing": false,
+        "showGists": false
+      },
       "locked": false,
-      "visible": true,
       "zIndex": 3,
+      "visible": true,
+      "position": {
+        "x": 72,
+        "y": 144
+      },
+      "widgetId": "terminal-info",
       "instanceId": "widget_1788175779829_2"
     },
     {
-      "widgetId": "languages",
       "name": "Languages Widget",
-      "position": {
-        "x": 40,
-        "y": 402
-      },
       "size": {
-        "width": 536,
-        "height": 280
+        "width": 672,
+        "height": 176
       },
       "config": {
+        "hideLangs": "Cmake,Shell,Monkey C,HTML",
+        "langsCount": 4,
         "langsLayout": "list",
         "hideLangsArr": [
           "Cmake",
           "Shell",
-          "Monkey C"
+          "Monkey C",
+          "HTML"
         ],
-        "hideLangs": "Cmake,Shell,Monkey C",
-        "langsCount": 8,
         "animationType": "none",
-        "animationPreviewKey": 2,
-        "animationDuration": 2300
+        "animationDuration": 2300,
+        "animationPreviewKey": 2
       },
       "locked": false,
-      "visible": true,
       "zIndex": 4,
+      "visible": true,
+      "position": {
+        "x": 72,
+        "y": 432
+      },
+      "widgetId": "languages",
       "instanceId": "widget_1788175779829_3"
     },
     {
-      "widgetId": "footer",
       "name": "Footer Widget",
-      "position": {
-        "x": 0,
-        "y": 714
-      },
       "size": {
         "width": 800,
         "height": 40
       },
       "config": {},
       "locked": false,
-      "visible": true,
       "zIndex": 6,
-      "instanceId": "widget_1788175779829_4"
-    },
-    {
-      "widgetId": "tech-stack",
-      "name": "Tech-stack Widget",
+      "visible": true,
       "position": {
-        "x": 560,
-        "y": 462
+        "x": 0,
+        "y": 712
       },
-      "size": {
-        "width": 240,
-        "height": 160
-      },
-      "config": {
-        "selectedTechs": [
-          "c",
-          "cpp",
-          "py",
-          "linux",
-          "git"
-        ],
-        "theme": "dark",
-        "perLine": 4
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 6,
-      "instanceId": "widget_1788175779829_5"
+      "widgetId": "footer",
+      "instanceId": "widget_1788175779829_4"
     }
   ],
   "globalStyles": {
-    "backgroundColor": "#060606",
+    "padding": 24,
     "textColor": "#e5e5e5",
+    "themeMode": "dark",
+    "fontFamily": "'JetBrains Mono', monospace",
     "accentColor": "#c5ff4a",
     "borderColor": "#252525",
-    "fontFamily": "'JetBrains Mono', monospace",
     "borderRadius": 0,
-    "padding": 24,
-    "themeMode": "dark",
-    "templateStyle": "native"
+    "templateStyle": "native",
+    "backgroundColor": "#060606"
   },
   "templateId": "terminal",
-  "profileSlug": "default"
+  "profileSlug": "default",
+  "metadata": {
+    "revision": "rev_1790341307263_kw4wi",
+    "updatedAt": "2026-09-25T13:01:50.144Z"
+  }
 }
