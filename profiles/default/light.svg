@@ -54,15 +54,15 @@
       <rect class="" x="0" y="0" width="672" height="280" fill="#060606" stroke="#252525" stroke-width="1" rx="0" />
       
       <text x="12" y="20" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#3d444d">─</tspan><tspan fill="#58a6ff"> RunningBrute@github </tspan><tspan fill="#3d444d">───────────────────────────────────────────────────────</tspan></text>
-<text x="12" y="38" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. Uptime: </tspan><tspan fill="#484f58">.......................................</tspan><tspan fill="#c9d1d9"> 11 years, 5 months, 20 days</tspan></text>
+<text x="12" y="38" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. Uptime: </tspan><tspan fill="#484f58">.......................................</tspan><tspan fill="#c9d1d9"> 11 years, 5 months, 22 days</tspan></text>
 <text x="12" y="56" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. Location: </tspan><tspan fill="#484f58">.........................................................</tspan><tspan fill="#c9d1d9"> Wroclaw</tspan></text>
-<text x="12" y="74" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. Languages: </tspan><tspan fill="#484f58">................................</tspan><tspan fill="#c9d1d9"> Monkey C, Pascal, C++, C, CMake</tspan></text>
+<text x="12" y="74" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. Languages: </tspan><tspan fill="#484f58">.................................</tspan><tspan fill="#c9d1d9"> Rust, Monkey C, Pascal, C++, C</tspan></text>
 <text x="12" y="100" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#3d444d">─</tspan><tspan fill="#58a6ff"> Contact </tspan><tspan fill="#3d444d">───────────────────────────────────────────────────────────────────</tspan></text>
 <text x="12" y="118" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. Website: </tspan><tspan fill="#484f58">..................................</tspan><tspan fill="#c9d1d9"> https://runningbrute.github.io/</tspan></text>
 <text x="12" y="136" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. GitHub: </tspan><tspan fill="#484f58">...........................................</tspan><tspan fill="#c9d1d9"> github.com/RunningBrute</tspan></text>
 <text x="12" y="162" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#3d444d">─</tspan><tspan fill="#58a6ff"> GitHub Stats </tspan><tspan fill="#3d444d">──────────────────────────────────────────────────────────────</tspan></text>
-<text x="12" y="180" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. Repos: </tspan><tspan fill="#484f58">.........................</tspan><tspan fill="#79c0ff"> 19</tspan><tspan fill="#3d444d"> | </tspan><tspan fill="#ffa657">. Stars: </tspan><tspan fill="#484f58">..........................</tspan><tspan fill="#79c0ff"> 1</tspan></text>
-<text x="12" y="198" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. Commits: </tspan><tspan fill="#484f58">......................</tspan><tspan fill="#79c0ff"> 498</tspan><tspan fill="#3d444d"> | </tspan><tspan fill="#ffa657">. Followers: </tspan><tspan fill="#484f58">......................</tspan><tspan fill="#79c0ff"> 4</tspan></text>
+<text x="12" y="180" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. Repos: </tspan><tspan fill="#484f58">.........................</tspan><tspan fill="#79c0ff"> 20</tspan><tspan fill="#3d444d"> | </tspan><tspan fill="#ffa657">. Stars: </tspan><tspan fill="#484f58">..........................</tspan><tspan fill="#79c0ff"> 1</tspan></text>
+<text x="12" y="198" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. Commits: </tspan><tspan fill="#484f58">......................</tspan><tspan fill="#79c0ff"> 509</tspan><tspan fill="#3d444d"> | </tspan><tspan fill="#ffa657">. Followers: </tspan><tspan fill="#484f58">......................</tspan><tspan fill="#79c0ff"> 4</tspan></text>
   
     </g>
   
@@ -79,33 +79,33 @@
       <g transform="translate(24, 48)">
         <circle cx="6" cy="8" r="4" fill="#f34b7d" />
         <text x="18" y="14" font-family="'Inter Tight', sans-serif" font-size="12" fill="#e5e5e5">C++</text>
-        <text x="588" y="14" text-anchor="end" font-family="'Inter Tight', sans-serif" font-size="11" fill="#7a7a7a">47%</text>
+        <text x="588" y="14" text-anchor="end" font-family="'Inter Tight', sans-serif" font-size="11" fill="#7a7a7a">44%</text>
         <rect x="0" y="20" width="588" height="3" fill="#252525" rx="1" />
-        <rect x="0" y="20" width="245.625" height="3" fill="#f34b7d" rx="1" />
+        <rect x="0" y="20" width="231.17647058823528" height="3" fill="#f34b7d" rx="1" />
       </g>
     
       <g transform="translate(24, 74)">
         <circle cx="6" cy="8" r="4" fill="#c5ff4a" />
         <text x="18" y="14" font-family="'Inter Tight', sans-serif" font-size="12" fill="#e5e5e5">C</text>
-        <text x="588" y="14" text-anchor="end" font-family="'Inter Tight', sans-serif" font-size="11" fill="#7a7a7a">25%</text>
+        <text x="588" y="14" text-anchor="end" font-family="'Inter Tight', sans-serif" font-size="11" fill="#7a7a7a">24%</text>
         <rect x="0" y="20" width="588" height="3" fill="#252525" rx="1" />
-        <rect x="0" y="20" width="131" height="3" fill="#c5ff4a" rx="1" />
+        <rect x="0" y="20" width="123.29411764705883" height="3" fill="#c5ff4a" rx="1" />
       </g>
     
       <g transform="translate(24, 100)">
         <circle cx="6" cy="8" r="4" fill="#3572A5" />
         <text x="18" y="14" font-family="'Inter Tight', sans-serif" font-size="12" fill="#e5e5e5">Python</text>
-        <text x="588" y="14" text-anchor="end" font-family="'Inter Tight', sans-serif" font-size="11" fill="#7a7a7a">22%</text>
+        <text x="588" y="14" text-anchor="end" font-family="'Inter Tight', sans-serif" font-size="11" fill="#7a7a7a">21%</text>
         <rect x="0" y="20" width="588" height="3" fill="#252525" rx="1" />
-        <rect x="0" y="20" width="114.625" height="3" fill="#3572A5" rx="1" />
+        <rect x="0" y="20" width="107.88235294117646" height="3" fill="#3572A5" rx="1" />
       </g>
     
       <g transform="translate(24, 126)">
-        <circle cx="6" cy="8" r="4" fill="#c5ff4a" />
-        <text x="18" y="14" font-family="'Inter Tight', sans-serif" font-size="12" fill="#e5e5e5">Pascal</text>
-        <text x="588" y="14" text-anchor="end" font-family="'Inter Tight', sans-serif" font-size="11" fill="#7a7a7a">6%</text>
+        <circle cx="6" cy="8" r="4" fill="#dea584" />
+        <text x="18" y="14" font-family="'Inter Tight', sans-serif" font-size="12" fill="#e5e5e5">Rust</text>
+        <text x="588" y="14" text-anchor="end" font-family="'Inter Tight', sans-serif" font-size="11" fill="#7a7a7a">12%</text>
         <rect x="0" y="20" width="588" height="3" fill="#252525" rx="1" />
-        <rect x="0" y="20" width="32.75" height="3" fill="#c5ff4a" rx="1" />
+        <rect x="0" y="20" width="61.64705882352941" height="3" fill="#dea584" rx="1" />
       </g>
     
   
